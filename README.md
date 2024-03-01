@@ -1,2 +1,2 @@
 # primeiro-codigo
- este foi mei primeiro codigo usando html, css js. 
+ este foi meu primeiro codigo usando html, css js. 
